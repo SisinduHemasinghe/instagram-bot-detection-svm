@@ -1,0 +1,11 @@
+# dataset is not redistributed here - see README for the download step
+data/raw/*
+data/processed/*
+!data/.gitkeep
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
